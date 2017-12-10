@@ -27,4 +27,22 @@ const users = [
   { name: 'sita touré', email: 's.toure@mail.co', age: 24 },
 ]
 
+
 // Your code :
+const validCandidates = x =>{
+for( let i=17; i<=26;i++){
+
+  if (i < 18)
+  return false 
+
+
+  else if ( i >= 18)
+  return true 
+
+  else if (i > 25)
+  return false 
+
+  else if (i <= 25)
+  return true
+}
+}

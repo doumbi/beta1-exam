@@ -20,3 +20,10 @@
  */
 
 // Your code :
+const user = {
+     'name' : 'doumbi',
+     'email' : 'aboudramanedoumbia@gmail.com',
+     'age' : 20,
+}
+
+
